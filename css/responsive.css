@@ -1,0 +1,667 @@
+@media(min-width:320px) and (max-width:575px){
+    #we .we-img{
+        width: 100%;
+    }
+    #banner .text-box h1 {
+        font-size: 51px;
+        width: auto;
+    }
+    #banner .text-box h1::after {
+        display: none;
+    }
+    #banner .text-box p {
+        width: auto;
+    }
+    #about .taitel h1 {
+        width: auto;
+        padding-top: 41px;
+    }
+    #about .taitel h1::before {
+        display: none;
+    }
+    #about .about-img{
+        width: 100%;
+    }
+    #popular .taitel h1 {
+        width: auto;
+        margin-bottom: 118px;
+    }
+    #popular .taitel h1::before {
+        left: 59px;
+    }
+    #about .shep-box .main {
+        width: 236px;
+        margin-bottom: 20px;
+    }
+    #live .taitel h1 {
+        font-size: 34px;
+        width: auto;
+    }
+    #live .taitel h1::before {
+        display: none;
+    }
+    #top .taitel h1 {
+        font-size: 42px;
+        width: auto;
+    }
+    #top .top-tow .text-areya p {
+        width: auto;
+    }
+    #we .taitel h1 {
+        font-size: 36px;
+        width: auto;
+    }
+    #we .taitel h1::before {
+       display: none;
+    }
+    #meet .taitel h1 {
+        width: auto;
+    }
+    #meet .taitel h1::before {
+        display: none;
+    }
+    #FREQUENTLY .taitel h1::before {
+        left: 161px;
+    }
+    #footer .main .text h1 {
+        font-size: 27px;
+        width: auto;
+        padding: 18px 0 34px 30px;
+    }
+    #footer .input-box .subscribe {
+        left: 185px;
+    }
+    #footer .left p {
+        width: auto;
+    }
+    #FREQUENTLY .content .text p {
+        width: auto;
+    }
+    #FREQUENTLY .content-tow .text p {
+        width: auto;
+    }
+    #live .main .box-to .img-to {
+        margin-left: 44px;
+    }
+    #live .main .box {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+    #live .main .box-to{
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+    #live .main h4 {
+        margin-bottom: 24px;
+    }
+    #top .top-img{
+        width: 100%;
+        margin-top: 30px;
+    }
+    #top .top-tow {
+        padding: 0;
+    }
+    #meet .meet-tow {
+        margin-top: 0px;
+    }
+    #meet .item {
+        margin-bottom: 30px;
+    }
+    #meet .overlay .text-box p {
+        width: 285px;
+    }
+    #meet .overlay .text-box p {
+        margin-bottom: 5px;
+    }
+    #meet .overlay .text-box h2 {
+        font-size: 21px;
+        margin-bottom: 15px;
+    }
+    #FREQUENTLY .content .number {
+        width: 136px;
+        height: 44px;
+        font-size: 24px;
+        line-height: 47px;
+    }
+    #FREQUENTLY .content-tow .number {
+        width: 136px;
+        height: 44px;
+        font-size: 24px;
+        line-height: 47px;
+    }
+    .navbar-toggler{
+        background-color: white;
+    }
+    nav .navul{
+        background-color: #FF4655;
+        z-index: 999;
+        padding-bottom: 20px;
+    }
+    nav .nav-icon {
+        margin-left: 48px;
+    }
+    #banner {
+        padding-top: 197px;
+        padding-bottom: 50px;
+    }
+    #banner .icon-box {
+        margin-top: -188px;
+    }
+    #about {
+        padding: 0px;
+    }
+    #about .list-taitel{
+        margin-top: 40px;
+    }
+    #about .shep-box .dot::before {
+        right: 45px;
+    }
+    #about .shep-box h1::before {
+        right: 41px;
+    }
+    #popular .popularimg {
+        width: 100%;
+        margin-top: 245px;
+    }
+    #popular .popularimg-one {
+        width: 100%;
+        margin-top: 168px;
+    }
+    #popular button .icon-one {
+        bottom: 23px;
+    }
+    #popular button .icon-tow {
+        bottom: 80px;
+    }
+    .carousel-inner {
+        padding-top: 0px;
+    }
+    #live .main-one {
+        margin-bottom: 28px;
+    }
+    #live .main {
+        margin-bottom: 28px;
+    }
+    #top .top-img{
+        width: 100%;
+    }
+    #top .main{
+        margin-bottom: 20px;
+    }
+    #we .we-img{
+        width: 100%;
+    }
+    #footer .copyright h5 {
+        font-size: 14px;
+    }
+    #footer .copyright span {
+        font-size: 14px;
+    }
+    #footer .icon-box{
+        margin-bottom: 50px;
+    }
+    
+}
+@media(min-width:576px) and (max-width:767px){
+    #we .we-img{
+        width: 100%;
+    }
+    #banner .text-box h1 {
+        font-size: 51px;
+        width: auto;
+    }
+    #banner .text-box h1::after {
+        display: none;
+    }
+    #banner .text-box p {
+        width: auto;
+    }
+    #about .taitel h1 {
+        width: auto;
+        padding-top: 41px;
+    }
+    #about .taitel h1::before {
+        display: none;
+    }
+    #about .about-img{
+        width: 100%;
+    }
+    #popular .taitel h1 {
+        width: auto;
+        margin-bottom: 118px;
+    }
+    #popular .taitel h1::before {
+        left: 59px;
+    }
+    #about .shep-box .main {
+        width: 236px;
+        margin-bottom: 20px;
+    }
+    #live .taitel h1 {
+        font-size: 34px;
+        width: auto;
+    }
+    #live .taitel h1::before {
+        display: none;
+    }
+    #top .taitel h1 {
+        font-size: 42px;
+        width: auto;
+    }
+    #top .top-tow .text-areya p {
+        width: auto;
+    }
+    #we .taitel h1 {
+        font-size: 36px;
+        width: auto;
+    }
+    #we .taitel h1::before {
+       display: none;
+    }
+    #meet .taitel h1 {
+        width: auto;
+    }
+    #meet .taitel h1::before {
+        display: none;
+    }
+    #FREQUENTLY .taitel h1::before {
+        left: 406px;
+    }
+    #footer .main .text h1 {
+        font-size: 27px;
+        width: auto;
+        padding: 18px 0 34px 30px;
+    }
+    #footer .input-box .subscribe {
+        left: 375px;
+    }
+    #footer .left p {
+        width: auto;
+    }
+    #FREQUENTLY .content .text p {
+        width: auto;
+    }
+    #FREQUENTLY .content-tow .text p {
+        width: auto;
+    }
+    #live .main .box-to .img-to {
+        margin-left: 171px;
+    }
+    #live .main .box {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+    #live .main .box-to{
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+    #live .main h4 {
+        margin-bottom: 24px;
+    }
+    #top .top-img{
+        width: 100%;
+        margin-top: 30px;
+    }
+    #top .top-tow {
+        padding: 0;
+    }
+    #meet .meet-tow {
+        margin-top: 0px;
+    }
+    #meet .item {
+        margin-bottom: 30px;
+    }
+    #meet .overlay .text-box p {
+        width: 285px;
+    }
+    #meet .overlay .text-box p {
+        margin-bottom: 5px;
+    }
+    #meet .overlay .text-box h2 {
+        font-size: 21px;
+        margin-bottom: 15px;
+    }
+    #FREQUENTLY .content .number {
+        width: 136px;
+        height: 44px;
+        font-size: 24px;
+        line-height: 47px;
+    }
+    #FREQUENTLY .content-tow .number {
+        width: 136px;
+        height: 44px;
+        font-size: 24px;
+        line-height: 47px;
+    }
+    .navbar-toggler{
+        background-color: white;
+    }
+    nav .navul{
+        background-color: #FF4655;
+        z-index: 999;
+        padding-bottom: 20px;
+    }
+    nav .nav-icon {
+        margin-left: 173px;
+    }
+    #banner {
+        padding-top: 197px;
+        padding-bottom: 50px;
+    }
+    #banner .icon-box {
+        margin-top: -188px;
+    }
+    #about {
+        padding: 0;
+        padding-bottom: 47px;
+    }
+    #about .list-taitel{
+        margin-top: 40px;
+    }
+    #about .shep-box .dot::before {
+        right: 45px;
+    }
+    #about .shep-box h1::before {
+        right: 41px;
+    }
+    #popular .popularimg {
+        width: 100%;
+        margin-top: 485px;
+    }
+    #popular .popularimg-one {
+        width: 100%;
+        margin-top: 168px;
+    }
+    #popular button .icon-one {
+        bottom: 23px;
+    }
+    #popular button .icon-tow {
+        bottom: 80px;
+    }
+    .carousel-inner {
+        padding-top: 0px;
+    }
+    #live .main-one {
+        margin-bottom: 28px;
+    }
+    #live .main {
+        margin-bottom: 28px;
+    }
+    #top .top-img{
+        width: 100%;
+    }
+    #top .main{
+        margin-bottom: 20px;
+    }
+    #we .we-img{
+        width: 100%;
+    }
+    #footer .copyright h5 {
+        font-size: 14px;
+    }
+    #footer .copyright span {
+        font-size: 14px;
+    }
+    #footer .icon-box{
+        margin-bottom: 50px;
+    }
+    #live .main .box h3 {
+        margin-left: 70px;
+    }
+    #live .main-one .text-areya {
+        gap: 397px;
+    }
+    #top .taitel h1::before {
+        right: 250px;
+    }
+    #meet .overlay {
+        gap: 36px;
+    }
+    #footer .input-box {
+        margin-top: -31px;
+        margin-right: 44px;
+    }
+    
+}
+@media(min-width:768px) and (max-width:992px){
+    #we .we-img{
+        width: 100%;
+    }
+    #banner .text-box h1 {
+        font-size: 51px;
+        width: auto;
+    }
+    #banner .text-box h1::after {
+        display: none;
+    }
+    #banner .text-box p {
+        width: auto;
+    }
+    #about .taitel h1 {
+        width: auto;
+        padding-top: 41px;
+    }
+    #about .taitel h1::before {
+        display: none;
+    }
+    #about .about-img{
+        width: 100%;
+    }
+    #popular .taitel h1 {
+        width: 479px;
+        margin-bottom: 118px;
+    }
+    #popular .taitel h1::before {
+        left: 163px;
+    }
+    #about .shep-box .main {
+        width: 236px;
+        margin-bottom: 20px;
+    }
+    #live .taitel h1 {
+        font-size: 42px;
+        width: auto;
+    }
+    #live .taitel h1::before {
+        display: none;
+    }
+    #top .taitel h1 {
+        font-size: 42px;
+        width: 427px;
+    }
+    #top .top-tow .text-areya p {
+        width: auto;
+    }
+    #we .taitel h1 {
+        font-size: 36px;
+        width: 500px;
+    }
+    #we .taitel h1::before {
+       display: none;
+    }
+    #meet .taitel h1 {
+        width: 535px;
+    }
+    #meet .taitel h1::before {
+        display: none;
+    }
+    #FREQUENTLY .taitel h1::before {
+        left: 406px;
+    }
+    #footer .main .text h1 {
+        font-size: 27px;
+        width: auto;
+        padding: 18px 0 34px 30px;
+    }
+    #footer .input-box .subscribe {
+        left: 567px;
+    }
+    #footer .left p {
+        width: auto;
+    }
+    #FREQUENTLY .content .text p {
+        width: auto;
+    }
+    #FREQUENTLY .content-tow .text p {
+        width: auto;
+    }
+    #live .main .box-to .img-to {
+        margin-left: 51px;
+    }
+    #live .main .box {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+    #live .main .box-to{
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+    #live .main h4 {
+        margin-bottom: 24px;
+    }
+    #top .top-img{
+        width: 100%;
+        margin-top: 30px;
+    }
+    #top .top-tow {
+        padding: 0;
+    }
+    #meet .meet-tow {
+        margin-top: 0px;
+    }
+    #meet .item {
+        margin-bottom: 30px;
+    }
+    #meet .overlay .text-box p {
+        width: 285px;
+    }
+    #meet .overlay .text-box p {
+        margin-bottom: 5px;
+    }
+    #meet .overlay .text-box h2 {
+        font-size: 21px;
+        margin-bottom: 15px;
+    }
+    #FREQUENTLY .content .number {
+        width: 136px;
+        height: 44px;
+        font-size: 24px;
+        line-height: 47px;
+    }
+    #FREQUENTLY .content-tow .number {
+        width: 136px;
+        height: 44px;
+        font-size: 24px;
+        line-height: 47px;
+    }
+    .navbar-toggler{
+        background-color: white;
+    }
+    nav .navul{
+        background-color: #FF4655;
+        z-index: 999;
+        padding-bottom: 20px;
+    }
+    nav .nav-icon {
+        margin-left: 270px;
+    }
+    #banner {
+        padding-top: 197px;
+        padding-bottom: 50px;
+    }
+    #banner .icon-box {
+        margin-top: -188px;
+    }
+    #about {
+        padding: 0;
+        padding-bottom: 47px;
+    }
+    #about .list-taitel{
+        margin-top: 40px;
+    }
+    #about .shep-box .dot::before {
+        right: 45px;
+    }
+    #about .shep-box h1::before {
+        right: 41px;
+    }
+    #popular .popularimg {
+        width: 100%;
+        margin-top: 678px;
+    }
+    #popular .popularimg-one {
+        width: 100%;
+        margin-top: 168px;
+    }
+    #popular button .icon-one {
+        bottom: -14px;
+    }
+    #popular button .icon-tow {
+        bottom: 80px;
+    }
+    .carousel-inner {
+        padding-top: 0px;
+    }
+    #live .main-one {
+        margin-bottom: 55px;
+    }
+    #live .main {
+        margin-bottom: 28px;
+    }
+    #top .top-img{
+        width: 100%;
+    }
+    #top .main{
+        margin-bottom: 20px;
+    }
+    #we .we-img{
+        width: 100%;
+    }
+    #footer .copyright h5 {
+        font-size: 14px;
+    }
+    #footer .copyright span {
+        font-size: 14px;
+    }
+    #footer .icon-box{
+        margin-bottom: 50px;
+    }
+    #live .main .box h3 {
+        margin-left: 30px;
+    }
+    #live .main-one .text-areya {
+        gap: 532px;
+    }
+    #top .taitel h1::before {
+        right: 250px;
+    }
+    #meet .overlay {
+        gap: 36px;
+    }
+    #footer .input-box {
+        margin-top: -31px;
+        margin-right: 44px;
+    }
+    #about .main-box {
+        margin-left: 78px;
+    }
+    #popular button .icon-tow {
+        width: 71px;
+        height: 71px;
+        line-height: 71px;
+        font-size: 38px;
+    }
+    #popular button .icon-one {
+        width: 71px;
+        height: 71px;
+        line-height: 71px;
+        font-size: 38px;
+    }
+    #live .main-one .text-areya .left h2 {
+        font-size: 30px;
+    }
+    #live .main-one .text-areya .left h5 {
+        font-size: 25px;
+    }
+    #live .main-one .text-areya .right h3 {
+        font-size: 27px;
+    }
+    #live .main-one .text-areya {
+        padding: 0 42px 29px 30px;
+    }
+    
+}
